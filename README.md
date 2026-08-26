@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is Garrett Green\
 -I'm majoring in Computer Science\
--I'm currently working on a sidescroll game with punching and kicking as the main game mechanics.\
+-I'm currently working on a sidescroll game with punching and kicking as the main game mechanics.
 
 <!--
 **Garrett-Green2/Garrett-Green2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
